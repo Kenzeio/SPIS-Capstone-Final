@@ -1,5 +1,5 @@
 <template>
-    <Head title="Student Players"/>
+    <Head title="Student Playerss"/>
     <AppLayout>
         <template v-slot:default>
             <!--Head-->
